@@ -1,11 +1,11 @@
 # Site settings
 author: Jonathan Jopio
-title: 
+title: Jonathan's Coding Journey
 header-img: img/home-bg.png
 email: jonathanjopio@gmail.com
 copyright_name: Jonathan Jopio
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Follow me through my adventures!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Bootchie6
