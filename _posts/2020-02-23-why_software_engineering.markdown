@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "Why Software Engineering?"
+date:       2020-02-24 03:49:43 +0000
+permalink:  why_software_engineering
+---
+
+
+Coding was not at all what I had thought I wanted to do as a career. Even though I was constantly surrounded by technology, I never pictured myself wanting to create the things that make these pieces of technology function. Coming out of highschool, I thought I wanted to be many things, from a chemical engineer, to a chef, and even to a psychologist. I started going to a university with becoming a chemical engineer in mind. Unfortunately, that didn't work out too well for me. So then I changed my major to psychology because it piqued my interest, but again, that didn't go well either. I became uncertain of my path and where I wanted to go. 
+
+While I was at the university, I made many friends who have helped me come to realize what my true interests were. A lot of them were in the computer science program, and when we hung out, we played a lot of video games. Most of the games we played were PC games, like League of Legends, or random multiplayer games we would find on Steam. Through our hobbies together, I realized I spent most of my free time messing with my laptop through games or applications that we used to communicate with each other, like Discord. I started to wonder how people made these games and apps and witnessed them grow into bigger and better versions of themselves. "It's amazing how people come up with ideas for these applications. I wish I could do something like that! " After I made that comment while on Discord with my friends, one of them suggested I learn how to code. And that's how my journey on this adventure began.
+
+I was no longer attending at the university and moved back home at the time to figure out what I really wanted to do. I enrolled in a community college and attended some computer science classes to try it out. After a couple semesters, I really grew to love coding. To me, it was like solving a complex riddle. Being able to solve the problem and succeeding in the answer was a great feeling! I finally found a passion I wanted to create into a career! 
+
+I continued at the communtiy college for a little more, but I ran into some financial issues and had to put my education on a hold. After working through my problems, I am now in a place where I can continue to learn more about my passion. While I was on that small break, a friend suggested to me that I can learn to code through bootcamps. It was something he had done and worked well for him. It was also more cost and time effective with my schedule. I did some research after hearing this information and came across Flatiron. I learned that there were multiple paths I could choose from for my coding career. I wanted to be the person that would create applications for people to use. I want these applications to be able to help people make their lives easier and more enjoyable. I looked into the options I had and software engineering sounded like a perfect fit. I would be the one doing the creating, and the things I create could connect people together, while hopefully at the same time make their lives more enjoyable. I was truly elated and satisfied with myself coming across Flatiron's program. 
+
+This is still the start of my journey, and I know it won't be a walk in the park, but I hope you all will be able to follow me as I learn and grow through this program! (:
