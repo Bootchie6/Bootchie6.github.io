@@ -1,0 +1,20 @@
+# Site settings
+author: Jonathan Jopio
+title: 
+header-img: img/home-bg.png
+email: jonathanjopio@gmail.com
+copyright_name: Jonathan Jopio
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  Bootchie6
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
